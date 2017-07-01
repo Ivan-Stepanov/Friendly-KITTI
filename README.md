@@ -1,3 +1,5 @@
+
+![alt text](https://github.com/Ivan-Stepanov/Friendly-KITTI/blob/master/Friendly-KITTI%20Screenshot.jpg)
 # Friendly KITTI
 A user-friendly bounding box labeling tool for creation of KITTI data-sets used to train neural networks in NVIDIA DIGITS
 
