@@ -12,8 +12,8 @@ https://developer.nvidia.com/digits
 It also allows you to multiply your labeled data-set by mirroring and rotating the images.
 
 # Installation:
-On Windows, no installation is reqiered. Just copy the Folder ... and execute "Friendly KITTI.exe".
-If you want to make changes and compile the project youself, make a pull request or copy the folder ... with the C# project. Works with VS 2017 Community Edition.
+On Windows, no installation is reqiered. Just copy the "Release" Folder and execute "Friendly KITTI.exe".
+If you want to make changes and compile the project youself, download the repository and open the C# project. Works with VS 2017 Community Edition.
 
 # Usage:
 1.	Select the folder with your unlabeled images
