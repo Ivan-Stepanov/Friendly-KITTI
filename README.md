@@ -12,7 +12,7 @@ https://developer.nvidia.com/digits
 It also allows you to multiply your labeled data-set by mirroring and rotating the images.
 
 # Installation:
-On Windows, no installation is reqiered. Just copy the "Release" Folder and execute "Friendly KITTI.exe".
+No installation is reqiered. Just download the "Release/Friendly KITTI.exe" and execute. If you want to have the Help-File included (contains the same information as this README.md), download the whole folder "Release".
 If you want to make changes and compile the project youself, download the repository and open the C# project. Works with VS 2017 Community Edition.
 
 # Usage:
